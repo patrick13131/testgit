@@ -9,5 +9,8 @@ public class Main {
 	public void bla(){
 
 	}
+	public void get(){
+
+	}
 
 }
